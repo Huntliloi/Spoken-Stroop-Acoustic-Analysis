@@ -1,0 +1,358 @@
+﻿Category,Name used in article,openSMILE variable,Component,Loading,Absolute loading,Component variance %
+Temporal timing,Word duration,Duration,B1,0.04758618286748284,0.04758618286748284,13.452822254148453
+Temporal timing,Preceding inter-response interval,Gap_Before,B1,-0.04880549996803654,0.04880549996803654,13.452822254148453
+Phonation stability,Mean F0,F0semitoneFrom27.5Hz_sma3nz_amean,B1,-0.33480229376180487,0.33480229376180487,13.452822254148453
+Phonation stability,F0 variability,F0semitoneFrom27.5Hz_sma3nz_stddevNorm,B1,-0.03427991979580956,0.03427991979580956,13.452822254148453
+Phonation stability,F0 percentile range,F0semitoneFrom27.5Hz_sma3nz_pctlrange0-2,B1,-0.0786877965283749,0.0786877965283749,13.452822254148453
+Loudness and energy,Mean loudness,loudness_sma3_amean,B1,-0.18413741735029557,0.18413741735029557,13.452822254148453
+Loudness and energy,Loudness variability,loudness_sma3_stddevNorm,B1,-0.37828584657635217,0.37828584657635217,13.452822254148453
+Loudness and energy,Loudness 20th percentile,loudness_sma3_percentile20.0,B1,0.02251013468132899,0.02251013468132899,13.452822254148453
+Loudness and energy,Loudness percentile range,loudness_sma3_pctlrange0-2,B1,-0.36571666941818437,0.36571666941818437,13.452822254148453
+Loudness and energy,Loudness rising slope,loudness_sma3_meanRisingSlope,B1,-0.4350156982565751,0.4350156982565751,13.452822254148453
+Loudness and energy,Loudness falling slope,loudness_sma3_meanFallingSlope,B1,0.48498001967016874,0.48498001967016874,13.452822254148453
+Spectral dynamics,Mean spectral flux,spectralFlux_sma3_amean,B1,-0.07090909499487275,0.07090909499487275,13.452822254148453
+Spectral dynamics,Spectral flux variability,spectralFlux_sma3_stddevNorm,B1,-0.14728460545514316,0.14728460545514316,13.452822254148453
+Spectral dynamics,Mean MFCC1,mfcc1_sma3_amean,B1,0.6112013445691108,0.6112013445691108,13.452822254148453
+Spectral dynamics,MFCC1 variability,mfcc1_sma3_stddevNorm,B1,-0.3714614782316,0.3714614782316,13.452822254148453
+Spectral dynamics,Mean MFCC2,mfcc2_sma3_amean,B1,0.7416271039687612,0.7416271039687612,13.452822254148453
+Spectral dynamics,Mean MFCC3,mfcc3_sma3_amean,B1,0.0006405085456654953,0.0006405085456654953,13.452822254148453
+Spectral dynamics,Mean MFCC4,mfcc4_sma3_amean,B1,0.40128424343737684,0.40128424343737684,13.452822254148453
+Voice quality,Mean jitter,jitterLocal_sma3nz_amean,B1,-0.019228063054696827,0.019228063054696827,13.452822254148453
+Voice quality,Jitter variability,jitterLocal_sma3nz_stddevNorm,B1,-0.21950924070803968,0.21950924070803968,13.452822254148453
+Voice quality,Mean shimmer,shimmerLocaldB_sma3nz_amean,B1,-0.09707348241504253,0.09707348241504253,13.452822254148453
+Voice quality,Shimmer variability,shimmerLocaldB_sma3nz_stddevNorm,B1,-0.1892066020587587,0.1892066020587587,13.452822254148453
+Voice quality,Mean HNR,HNRdBACF_sma3nz_amean,B1,-0.10896882694255575,0.10896882694255575,13.452822254148453
+Voice quality,Mean H1–H2,logRelF0-H1-H2_sma3nz_amean,B1,0.23898806171724635,0.23898806171724635,13.452822254148453
+Voice quality,Mean H1–A3,logRelF0-H1-A3_sma3nz_amean,B1,0.8558800394806253,0.8558800394806253,13.452822254148453
+Formant-related articulation,Mean F1 frequency,F1frequency_sma3nz_amean,B1,0.15474129677101797,0.15474129677101797,13.452822254148453
+Formant-related articulation,F1 frequency variability,F1frequency_sma3nz_stddevNorm,B1,-0.5039319038187147,0.5039319038187147,13.452822254148453
+Formant-related articulation,Mean F1 bandwidth,F1bandwidth_sma3nz_amean,B1,0.1075743864270591,0.1075743864270591,13.452822254148453
+Formant-related articulation,F1 bandwidth variability,F1bandwidth_sma3nz_stddevNorm,B1,-0.5165276824187928,0.5165276824187928,13.452822254148453
+Formant-related articulation,Mean relative F1 amplitude,F1amplitudeLogRelF0_sma3nz_amean,B1,-0.08940169591984702,0.08940169591984702,13.452822254148453
+Formant-related articulation,Mean F2 frequency,F2frequency_sma3nz_amean,B1,0.11863081784829094,0.11863081784829094,13.452822254148453
+Formant-related articulation,F2 frequency variability,F2frequency_sma3nz_stddevNorm,B1,-0.11974589892059871,0.11974589892059871,13.452822254148453
+Formant-related articulation,Mean F2 bandwidth,F2bandwidth_sma3nz_amean,B1,0.17838443649516514,0.17838443649516514,13.452822254148453
+Formant-related articulation,F2 bandwidth variability,F2bandwidth_sma3nz_stddevNorm,B1,-0.6062191807354346,0.6062191807354346,13.452822254148453
+Formant-related articulation,Mean relative F2 amplitude,F2amplitudeLogRelF0_sma3nz_amean,B1,-0.24794161184236413,0.24794161184236413,13.452822254148453
+Formant-related articulation,Mean F3 frequency,F3frequency_sma3nz_amean,B1,0.20272905585306422,0.20272905585306422,13.452822254148453
+Formant-related articulation,F3 frequency variability,F3frequency_sma3nz_stddevNorm,B1,-0.3809566272310995,0.3809566272310995,13.452822254148453
+Formant-related articulation,Mean F3 bandwidth,F3bandwidth_sma3nz_amean,B1,-0.19408307674016556,0.19408307674016556,13.452822254148453
+Formant-related articulation,F3 bandwidth variability,F3bandwidth_sma3nz_stddevNorm,B1,-0.222364876863589,0.222364876863589,13.452822254148453
+Formant-related articulation,Mean relative F3 amplitude,F3amplitudeLogRelF0_sma3nz_amean,B1,-0.3708029352328875,0.3708029352328875,13.452822254148453
+Formant-related articulation,Relative F3 amplitude variability,F3amplitudeLogRelF0_sma3nz_stddevNorm,B1,0.5400307313076774,0.5400307313076774,13.452822254148453
+Loudness and energy,Mean V alpha ratio,alphaRatioV_sma3nz_amean,B1,-0.8174705464809743,0.8174705464809743,13.452822254148453
+Spectral dynamics,Mean V Hammarberg index,hammarbergIndexV_sma3nz_amean,B1,0.7242604841208651,0.7242604841208651,13.452822254148453
+Spectral dynamics,V Hammarberg index variability,hammarbergIndexV_sma3nz_stddevNorm,B1,-0.7164795467943094,0.7164795467943094,13.452822254148453
+Spectral dynamics,Mean slopeV0-500,slopeV0-500_sma3nz_amean,B1,-0.30940560544300066,0.30940560544300066,13.452822254148453
+Spectral dynamics,Mean slopeV500-1500,slopeV500-1500_sma3nz_amean,B1,-0.4596989937834174,0.4596989937834174,13.452822254148453
+Spectral dynamics,V spectral flux variability,spectralFluxV_sma3nz_stddevNorm,B1,-0.07048985805697057,0.07048985805697057,13.452822254148453
+Loudness and energy,Loudness peak rate,loudnessPeaksPerSec,B1,0.27391575522262107,0.27391575522262107,13.452822254148453
+Temporal timing,Voiced-segment rate,VoicedSegmentsPerSec,B1,-0.004055487127263829,0.004055487127263829,13.452822254148453
+Temporal timing,Mean voiced-segment duration,MeanVoicedSegmentLengthSec,B1,0.056300839215136324,0.056300839215136324,13.452822254148453
+Loudness and energy,Equivalent sound level,equivalentSoundLevel_dBp,B1,0.06470717483941942,0.06470717483941942,13.452822254148453
+Temporal timing,Word duration,Duration,B2,0.3021375421117629,0.3021375421117629,13.066205388314042
+Temporal timing,Preceding inter-response interval,Gap_Before,B2,-0.040570225639252375,0.040570225639252375,13.066205388314042
+Phonation stability,Mean F0,F0semitoneFrom27.5Hz_sma3nz_amean,B2,0.041998593039721255,0.041998593039721255,13.066205388314042
+Phonation stability,F0 variability,F0semitoneFrom27.5Hz_sma3nz_stddevNorm,B2,0.3038229853644832,0.3038229853644832,13.066205388314042
+Phonation stability,F0 percentile range,F0semitoneFrom27.5Hz_sma3nz_pctlrange0-2,B2,0.0651015399416991,0.0651015399416991,13.066205388314042
+Loudness and energy,Mean loudness,loudness_sma3_amean,B2,-0.14891137046833028,0.14891137046833028,13.066205388314042
+Loudness and energy,Loudness variability,loudness_sma3_stddevNorm,B2,0.5691793302760773,0.5691793302760773,13.066205388314042
+Loudness and energy,Loudness 20th percentile,loudness_sma3_percentile20.0,B2,-0.32494442530441586,0.32494442530441586,13.066205388314042
+Loudness and energy,Loudness percentile range,loudness_sma3_pctlrange0-2,B2,0.12806998767632902,0.12806998767632902,13.066205388314042
+Loudness and energy,Loudness rising slope,loudness_sma3_meanRisingSlope,B2,0.13718438113173878,0.13718438113173878,13.066205388314042
+Loudness and energy,Loudness falling slope,loudness_sma3_meanFallingSlope,B2,0.04527208262807122,0.04527208262807122,13.066205388314042
+Spectral dynamics,Mean spectral flux,spectralFlux_sma3_amean,B2,0.12088146169882746,0.12088146169882746,13.066205388314042
+Spectral dynamics,Spectral flux variability,spectralFlux_sma3_stddevNorm,B2,0.8160125782506749,0.8160125782506749,13.066205388314042
+Spectral dynamics,Mean MFCC1,mfcc1_sma3_amean,B2,-0.2001067824864849,0.2001067824864849,13.066205388314042
+Spectral dynamics,MFCC1 variability,mfcc1_sma3_stddevNorm,B2,0.5606262189169287,0.5606262189169287,13.066205388314042
+Spectral dynamics,Mean MFCC2,mfcc2_sma3_amean,B2,0.2810959900124085,0.2810959900124085,13.066205388314042
+Spectral dynamics,Mean MFCC3,mfcc3_sma3_amean,B2,0.10224013188317141,0.10224013188317141,13.066205388314042
+Spectral dynamics,Mean MFCC4,mfcc4_sma3_amean,B2,0.3465219234953857,0.3465219234953857,13.066205388314042
+Voice quality,Mean jitter,jitterLocal_sma3nz_amean,B2,0.23402242452983674,0.23402242452983674,13.066205388314042
+Voice quality,Jitter variability,jitterLocal_sma3nz_stddevNorm,B2,0.30449936773687114,0.30449936773687114,13.066205388314042
+Voice quality,Mean shimmer,shimmerLocaldB_sma3nz_amean,B2,0.06866376898134263,0.06866376898134263,13.066205388314042
+Voice quality,Shimmer variability,shimmerLocaldB_sma3nz_stddevNorm,B2,0.43768962273769463,0.43768962273769463,13.066205388314042
+Voice quality,Mean HNR,HNRdBACF_sma3nz_amean,B2,0.039639731177080174,0.039639731177080174,13.066205388314042
+Voice quality,Mean H1–H2,logRelF0-H1-H2_sma3nz_amean,B2,0.12989293171670474,0.12989293171670474,13.066205388314042
+Voice quality,Mean H1–A3,logRelF0-H1-A3_sma3nz_amean,B2,0.06288639360441595,0.06288639360441595,13.066205388314042
+Formant-related articulation,Mean F1 frequency,F1frequency_sma3nz_amean,B2,0.287509533513916,0.287509533513916,13.066205388314042
+Formant-related articulation,F1 frequency variability,F1frequency_sma3nz_stddevNorm,B2,0.29373980559646545,0.29373980559646545,13.066205388314042
+Formant-related articulation,Mean F1 bandwidth,F1bandwidth_sma3nz_amean,B2,0.04450428615341212,0.04450428615341212,13.066205388314042
+Formant-related articulation,F1 bandwidth variability,F1bandwidth_sma3nz_stddevNorm,B2,0.25160787619277103,0.25160787619277103,13.066205388314042
+Formant-related articulation,Mean relative F1 amplitude,F1amplitudeLogRelF0_sma3nz_amean,B2,-0.9012916442040136,0.9012916442040136,13.066205388314042
+Formant-related articulation,Mean F2 frequency,F2frequency_sma3nz_amean,B2,0.39466753496464113,0.39466753496464113,13.066205388314042
+Formant-related articulation,F2 frequency variability,F2frequency_sma3nz_stddevNorm,B2,0.32536719400787384,0.32536719400787384,13.066205388314042
+Formant-related articulation,Mean F2 bandwidth,F2bandwidth_sma3nz_amean,B2,0.003701220910956052,0.003701220910956052,13.066205388314042
+Formant-related articulation,F2 bandwidth variability,F2bandwidth_sma3nz_stddevNorm,B2,0.14096858819317587,0.14096858819317587,13.066205388314042
+Formant-related articulation,Mean relative F2 amplitude,F2amplitudeLogRelF0_sma3nz_amean,B2,-0.8759021332967107,0.8759021332967107,13.066205388314042
+Formant-related articulation,Mean F3 frequency,F3frequency_sma3nz_amean,B2,0.3335508425638581,0.3335508425638581,13.066205388314042
+Formant-related articulation,F3 frequency variability,F3frequency_sma3nz_stddevNorm,B2,-0.005275904582259453,0.005275904582259453,13.066205388314042
+Formant-related articulation,Mean F3 bandwidth,F3bandwidth_sma3nz_amean,B2,-0.12047785833271328,0.12047785833271328,13.066205388314042
+Formant-related articulation,F3 bandwidth variability,F3bandwidth_sma3nz_stddevNorm,B2,0.024064719770778856,0.024064719770778856,13.066205388314042
+Formant-related articulation,Mean relative F3 amplitude,F3amplitudeLogRelF0_sma3nz_amean,B2,-0.8451223033834445,0.8451223033834445,13.066205388314042
+Formant-related articulation,Relative F3 amplitude variability,F3amplitudeLogRelF0_sma3nz_stddevNorm,B2,-0.4989802913914302,0.4989802913914302,13.066205388314042
+Loudness and energy,Mean V alpha ratio,alphaRatioV_sma3nz_amean,B2,-0.3161637746183953,0.3161637746183953,13.066205388314042
+Spectral dynamics,Mean V Hammarberg index,hammarbergIndexV_sma3nz_amean,B2,0.39021254208853073,0.39021254208853073,13.066205388314042
+Spectral dynamics,V Hammarberg index variability,hammarbergIndexV_sma3nz_stddevNorm,B2,-0.01791545946127867,0.01791545946127867,13.066205388314042
+Spectral dynamics,Mean slopeV0-500,slopeV0-500_sma3nz_amean,B2,-0.5177356472107365,0.5177356472107365,13.066205388314042
+Spectral dynamics,Mean slopeV500-1500,slopeV500-1500_sma3nz_amean,B2,0.24620737343736143,0.24620737343736143,13.066205388314042
+Spectral dynamics,V spectral flux variability,spectralFluxV_sma3nz_stddevNorm,B2,0.7415021321155713,0.7415021321155713,13.066205388314042
+Loudness and energy,Loudness peak rate,loudnessPeaksPerSec,B2,-0.15125926134652465,0.15125926134652465,13.066205388314042
+Temporal timing,Voiced-segment rate,VoicedSegmentsPerSec,B2,-0.12668469192106388,0.12668469192106388,13.066205388314042
+Temporal timing,Mean voiced-segment duration,MeanVoicedSegmentLengthSec,B2,-0.10472828834867531,0.10472828834867531,13.066205388314042
+Loudness and energy,Equivalent sound level,equivalentSoundLevel_dBp,B2,0.08466779775596577,0.08466779775596577,13.066205388314042
+Temporal timing,Word duration,Duration,B3,0.8645642783534051,0.8645642783534051,11.477816903468856
+Temporal timing,Preceding inter-response interval,Gap_Before,B3,0.5751724876753348,0.5751724876753348,11.477816903468856
+Phonation stability,Mean F0,F0semitoneFrom27.5Hz_sma3nz_amean,B3,0.10720958596871205,0.10720958596871205,11.477816903468856
+Phonation stability,F0 variability,F0semitoneFrom27.5Hz_sma3nz_stddevNorm,B3,0.5393998270004768,0.5393998270004768,11.477816903468856
+Phonation stability,F0 percentile range,F0semitoneFrom27.5Hz_sma3nz_pctlrange0-2,B3,0.6626625946860212,0.6626625946860212,11.477816903468856
+Loudness and energy,Mean loudness,loudness_sma3_amean,B3,0.10577634477667959,0.10577634477667959,11.477816903468856
+Loudness and energy,Loudness variability,loudness_sma3_stddevNorm,B3,0.29196521083534516,0.29196521083534516,11.477816903468856
+Loudness and energy,Loudness 20th percentile,loudness_sma3_percentile20.0,B3,-0.04019664068591121,0.04019664068591121,11.477816903468856
+Loudness and energy,Loudness percentile range,loudness_sma3_pctlrange0-2,B3,0.24823319954631065,0.24823319954631065,11.477816903468856
+Loudness and energy,Loudness rising slope,loudness_sma3_meanRisingSlope,B3,-0.11238569083254832,0.11238569083254832,11.477816903468856
+Loudness and energy,Loudness falling slope,loudness_sma3_meanFallingSlope,B3,0.08462182341932174,0.08462182341932174,11.477816903468856
+Spectral dynamics,Mean spectral flux,spectralFlux_sma3_amean,B3,0.10425804155995311,0.10425804155995311,11.477816903468856
+Spectral dynamics,Spectral flux variability,spectralFlux_sma3_stddevNorm,B3,0.15211584269663536,0.15211584269663536,11.477816903468856
+Spectral dynamics,Mean MFCC1,mfcc1_sma3_amean,B3,-0.17720166258993558,0.17720166258993558,11.477816903468856
+Spectral dynamics,MFCC1 variability,mfcc1_sma3_stddevNorm,B3,0.27807844098184614,0.27807844098184614,11.477816903468856
+Spectral dynamics,Mean MFCC2,mfcc2_sma3_amean,B3,0.08396442560803012,0.08396442560803012,11.477816903468856
+Spectral dynamics,Mean MFCC3,mfcc3_sma3_amean,B3,-0.0929594047870347,0.0929594047870347,11.477816903468856
+Spectral dynamics,Mean MFCC4,mfcc4_sma3_amean,B3,0.04540319680880874,0.04540319680880874,11.477816903468856
+Voice quality,Mean jitter,jitterLocal_sma3nz_amean,B3,0.16640048426314763,0.16640048426314763,11.477816903468856
+Voice quality,Jitter variability,jitterLocal_sma3nz_stddevNorm,B3,0.5915563565310126,0.5915563565310126,11.477816903468856
+Voice quality,Mean shimmer,shimmerLocaldB_sma3nz_amean,B3,-0.0844011489553366,0.0844011489553366,11.477816903468856
+Voice quality,Shimmer variability,shimmerLocaldB_sma3nz_stddevNorm,B3,0.35252287821114586,0.35252287821114586,11.477816903468856
+Voice quality,Mean HNR,HNRdBACF_sma3nz_amean,B3,0.047174587576221394,0.047174587576221394,11.477816903468856
+Voice quality,Mean H1–H2,logRelF0-H1-H2_sma3nz_amean,B3,0.11792223690953436,0.11792223690953436,11.477816903468856
+Voice quality,Mean H1–A3,logRelF0-H1-A3_sma3nz_amean,B3,0.1000224765574132,0.1000224765574132,11.477816903468856
+Formant-related articulation,Mean F1 frequency,F1frequency_sma3nz_amean,B3,0.04549335009136152,0.04549335009136152,11.477816903468856
+Formant-related articulation,F1 frequency variability,F1frequency_sma3nz_stddevNorm,B3,0.3469016207162321,0.3469016207162321,11.477816903468856
+Formant-related articulation,Mean F1 bandwidth,F1bandwidth_sma3nz_amean,B3,0.04860895583064763,0.04860895583064763,11.477816903468856
+Formant-related articulation,F1 bandwidth variability,F1bandwidth_sma3nz_stddevNorm,B3,0.37384646234165475,0.37384646234165475,11.477816903468856
+Formant-related articulation,Mean relative F1 amplitude,F1amplitudeLogRelF0_sma3nz_amean,B3,-0.050988052543061595,0.050988052543061595,11.477816903468856
+Formant-related articulation,Mean F2 frequency,F2frequency_sma3nz_amean,B3,0.1270301960328344,0.1270301960328344,11.477816903468856
+Formant-related articulation,F2 frequency variability,F2frequency_sma3nz_stddevNorm,B3,0.31880276975547583,0.31880276975547583,11.477816903468856
+Formant-related articulation,Mean F2 bandwidth,F2bandwidth_sma3nz_amean,B3,0.0070894102918030565,0.0070894102918030565,11.477816903468856
+Formant-related articulation,F2 bandwidth variability,F2bandwidth_sma3nz_stddevNorm,B3,0.35484511992073486,0.35484511992073486,11.477816903468856
+Formant-related articulation,Mean relative F2 amplitude,F2amplitudeLogRelF0_sma3nz_amean,B3,-0.09031146258095729,0.09031146258095729,11.477816903468856
+Formant-related articulation,Mean F3 frequency,F3frequency_sma3nz_amean,B3,-0.005348467750066323,0.005348467750066323,11.477816903468856
+Formant-related articulation,F3 frequency variability,F3frequency_sma3nz_stddevNorm,B3,0.3311019315511857,0.3311019315511857,11.477816903468856
+Formant-related articulation,Mean F3 bandwidth,F3bandwidth_sma3nz_amean,B3,0.20148461279326252,0.20148461279326252,11.477816903468856
+Formant-related articulation,F3 bandwidth variability,F3bandwidth_sma3nz_stddevNorm,B3,0.06508782676631229,0.06508782676631229,11.477816903468856
+Formant-related articulation,Mean relative F3 amplitude,F3amplitudeLogRelF0_sma3nz_amean,B3,-0.07208420904306766,0.07208420904306766,11.477816903468856
+Formant-related articulation,Relative F3 amplitude variability,F3amplitudeLogRelF0_sma3nz_stddevNorm,B3,-0.33624419183147514,0.33624419183147514,11.477816903468856
+Loudness and energy,Mean V alpha ratio,alphaRatioV_sma3nz_amean,B3,-0.03800952518681152,0.03800952518681152,11.477816903468856
+Spectral dynamics,Mean V Hammarberg index,hammarbergIndexV_sma3nz_amean,B3,0.05943400076950125,0.05943400076950125,11.477816903468856
+Spectral dynamics,V Hammarberg index variability,hammarbergIndexV_sma3nz_stddevNorm,B3,0.27468035586531153,0.27468035586531153,11.477816903468856
+Spectral dynamics,Mean slopeV0-500,slopeV0-500_sma3nz_amean,B3,0.21725827556440272,0.21725827556440272,11.477816903468856
+Spectral dynamics,Mean slopeV500-1500,slopeV500-1500_sma3nz_amean,B3,-0.03399055444711221,0.03399055444711221,11.477816903468856
+Spectral dynamics,V spectral flux variability,spectralFluxV_sma3nz_stddevNorm,B3,0.12530650342668764,0.12530650342668764,11.477816903468856
+Loudness and energy,Loudness peak rate,loudnessPeaksPerSec,B3,-0.6983614137924372,0.6983614137924372,11.477816903468856
+Temporal timing,Voiced-segment rate,VoicedSegmentsPerSec,B3,-0.9153098795808955,0.9153098795808955,11.477816903468856
+Temporal timing,Mean voiced-segment duration,MeanVoicedSegmentLengthSec,B3,0.9361776934530831,0.9361776934530831,11.477816903468856
+Loudness and energy,Equivalent sound level,equivalentSoundLevel_dBp,B3,0.14327518965473796,0.14327518965473796,11.477816903468856
+Temporal timing,Word duration,Duration,B4,-0.07731050257042724,0.07731050257042724,11.37795056332256
+Temporal timing,Preceding inter-response interval,Gap_Before,B4,-0.06411831653794302,0.06411831653794302,11.37795056332256
+Phonation stability,Mean F0,F0semitoneFrom27.5Hz_sma3nz_amean,B4,-0.03726498813988405,0.03726498813988405,11.37795056332256
+Phonation stability,F0 variability,F0semitoneFrom27.5Hz_sma3nz_stddevNorm,B4,-0.1759959066957365,0.1759959066957365,11.37795056332256
+Phonation stability,F0 percentile range,F0semitoneFrom27.5Hz_sma3nz_pctlrange0-2,B4,-0.2250885287309723,0.2250885287309723,11.37795056332256
+Loudness and energy,Mean loudness,loudness_sma3_amean,B4,-0.9495590794562777,0.9495590794562777,11.37795056332256
+Loudness and energy,Loudness variability,loudness_sma3_stddevNorm,B4,-0.2627928495291466,0.2627928495291466,11.37795056332256
+Loudness and energy,Loudness 20th percentile,loudness_sma3_percentile20.0,B4,-0.8385184604774659,0.8385184604774659,11.37795056332256
+Loudness and energy,Loudness percentile range,loudness_sma3_pctlrange0-2,B4,-0.8104335236305892,0.8104335236305892,11.37795056332256
+Loudness and energy,Loudness rising slope,loudness_sma3_meanRisingSlope,B4,-0.7538124594110943,0.7538124594110943,11.37795056332256
+Loudness and energy,Loudness falling slope,loudness_sma3_meanFallingSlope,B4,0.35556035319800994,0.35556035319800994,11.37795056332256
+Spectral dynamics,Mean spectral flux,spectralFlux_sma3_amean,B4,-0.928426315881766,0.928426315881766,11.37795056332256
+Spectral dynamics,Spectral flux variability,spectralFlux_sma3_stddevNorm,B4,-0.21966272018497446,0.21966272018497446,11.37795056332256
+Spectral dynamics,Mean MFCC1,mfcc1_sma3_amean,B4,0.21014811801151834,0.21014811801151834,11.37795056332256
+Spectral dynamics,MFCC1 variability,mfcc1_sma3_stddevNorm,B4,-0.2709356335467033,0.2709356335467033,11.37795056332256
+Spectral dynamics,Mean MFCC2,mfcc2_sma3_amean,B4,0.08758896794008998,0.08758896794008998,11.37795056332256
+Spectral dynamics,Mean MFCC3,mfcc3_sma3_amean,B4,0.07624252869538918,0.07624252869538918,11.37795056332256
+Spectral dynamics,Mean MFCC4,mfcc4_sma3_amean,B4,0.2908581389905144,0.2908581389905144,11.37795056332256
+Voice quality,Mean jitter,jitterLocal_sma3nz_amean,B4,-0.08670878557918844,0.08670878557918844,11.37795056332256
+Voice quality,Jitter variability,jitterLocal_sma3nz_stddevNorm,B4,-0.15858892039202127,0.15858892039202127,11.37795056332256
+Voice quality,Mean shimmer,shimmerLocaldB_sma3nz_amean,B4,0.001342770729118497,0.001342770729118497,11.37795056332256
+Voice quality,Shimmer variability,shimmerLocaldB_sma3nz_stddevNorm,B4,-0.08865343004018267,0.08865343004018267,11.37795056332256
+Voice quality,Mean HNR,HNRdBACF_sma3nz_amean,B4,0.056489341384283964,0.056489341384283964,11.37795056332256
+Voice quality,Mean H1–H2,logRelF0-H1-H2_sma3nz_amean,B4,0.05746716335197561,0.05746716335197561,11.37795056332256
+Voice quality,Mean H1–A3,logRelF0-H1-A3_sma3nz_amean,B4,0.11726740291404938,0.11726740291404938,11.37795056332256
+Formant-related articulation,Mean F1 frequency,F1frequency_sma3nz_amean,B4,0.1893527253729246,0.1893527253729246,11.37795056332256
+Formant-related articulation,F1 frequency variability,F1frequency_sma3nz_stddevNorm,B4,-0.0374168470673041,0.0374168470673041,11.37795056332256
+Formant-related articulation,Mean F1 bandwidth,F1bandwidth_sma3nz_amean,B4,0.22017610073424768,0.22017610073424768,11.37795056332256
+Formant-related articulation,F1 bandwidth variability,F1bandwidth_sma3nz_stddevNorm,B4,-0.04311387665470721,0.04311387665470721,11.37795056332256
+Formant-related articulation,Mean relative F1 amplitude,F1amplitudeLogRelF0_sma3nz_amean,B4,-0.11116691858222505,0.11116691858222505,11.37795056332256
+Formant-related articulation,Mean F2 frequency,F2frequency_sma3nz_amean,B4,0.1938492831739366,0.1938492831739366,11.37795056332256
+Formant-related articulation,F2 frequency variability,F2frequency_sma3nz_stddevNorm,B4,-0.056529008663858946,0.056529008663858946,11.37795056332256
+Formant-related articulation,Mean F2 bandwidth,F2bandwidth_sma3nz_amean,B4,0.2556019443492248,0.2556019443492248,11.37795056332256
+Formant-related articulation,F2 bandwidth variability,F2bandwidth_sma3nz_stddevNorm,B4,-0.0006044965172546234,0.0006044965172546234,11.37795056332256
+Formant-related articulation,Mean relative F2 amplitude,F2amplitudeLogRelF0_sma3nz_amean,B4,-0.12891045025403713,0.12891045025403713,11.37795056332256
+Formant-related articulation,Mean F3 frequency,F3frequency_sma3nz_amean,B4,0.01699016413197218,0.01699016413197218,11.37795056332256
+Formant-related articulation,F3 frequency variability,F3frequency_sma3nz_stddevNorm,B4,-0.008952984746471238,0.008952984746471238,11.37795056332256
+Formant-related articulation,Mean F3 bandwidth,F3bandwidth_sma3nz_amean,B4,0.16332301011665856,0.16332301011665856,11.37795056332256
+Formant-related articulation,F3 bandwidth variability,F3bandwidth_sma3nz_stddevNorm,B4,-0.2480364146714666,0.2480364146714666,11.37795056332256
+Formant-related articulation,Mean relative F3 amplitude,F3amplitudeLogRelF0_sma3nz_amean,B4,-0.10418976878314777,0.10418976878314777,11.37795056332256
+Formant-related articulation,Relative F3 amplitude variability,F3amplitudeLogRelF0_sma3nz_stddevNorm,B4,0.2383938058480424,0.2383938058480424,11.37795056332256
+Loudness and energy,Mean V alpha ratio,alphaRatioV_sma3nz_amean,B4,-0.18634803854968554,0.18634803854968554,11.37795056332256
+Spectral dynamics,Mean V Hammarberg index,hammarbergIndexV_sma3nz_amean,B4,0.1861726798125291,0.1861726798125291,11.37795056332256
+Spectral dynamics,V Hammarberg index variability,hammarbergIndexV_sma3nz_stddevNorm,B4,-0.24966345314348537,0.24966345314348537,11.37795056332256
+Spectral dynamics,Mean slopeV0-500,slopeV0-500_sma3nz_amean,B4,-0.14739312759739354,0.14739312759739354,11.37795056332256
+Spectral dynamics,Mean slopeV500-1500,slopeV500-1500_sma3nz_amean,B4,0.13275375751900115,0.13275375751900115,11.37795056332256
+Spectral dynamics,V spectral flux variability,spectralFluxV_sma3nz_stddevNorm,B4,-0.13366167762572023,0.13366167762572023,11.37795056332256
+Loudness and energy,Loudness peak rate,loudnessPeaksPerSec,B4,0.15172459453390774,0.15172459453390774,11.37795056332256
+Temporal timing,Voiced-segment rate,VoicedSegmentsPerSec,B4,0.05038916555995244,0.05038916555995244,11.37795056332256
+Temporal timing,Mean voiced-segment duration,MeanVoicedSegmentLengthSec,B4,-0.07048898904268071,0.07048898904268071,11.37795056332256
+Loudness and energy,Equivalent sound level,equivalentSoundLevel_dBp,B4,-0.9483172068781829,0.9483172068781829,11.37795056332256
+Temporal timing,Word duration,Duration,B5,0.056037666081774504,0.056037666081774504,9.70067469653987
+Temporal timing,Preceding inter-response interval,Gap_Before,B5,-0.12534106821329122,0.12534106821329122,9.70067469653987
+Phonation stability,Mean F0,F0semitoneFrom27.5Hz_sma3nz_amean,B5,0.7534254507517859,0.7534254507517859,9.70067469653987
+Phonation stability,F0 variability,F0semitoneFrom27.5Hz_sma3nz_stddevNorm,B5,-0.10619318335808446,0.10619318335808446,9.70067469653987
+Phonation stability,F0 percentile range,F0semitoneFrom27.5Hz_sma3nz_pctlrange0-2,B5,-0.058529772948287734,0.058529772948287734,9.70067469653987
+Loudness and energy,Mean loudness,loudness_sma3_amean,B5,-0.015210604172077499,0.015210604172077499,9.70067469653987
+Loudness and energy,Loudness variability,loudness_sma3_stddevNorm,B5,-0.15044833904234817,0.15044833904234817,9.70067469653987
+Loudness and energy,Loudness 20th percentile,loudness_sma3_percentile20.0,B5,0.03877008377360032,0.03877008377360032,9.70067469653987
+Loudness and energy,Loudness percentile range,loudness_sma3_pctlrange0-2,B5,-0.07358377101173887,0.07358377101173887,9.70067469653987
+Loudness and energy,Loudness rising slope,loudness_sma3_meanRisingSlope,B5,-0.02979487681813078,0.02979487681813078,9.70067469653987
+Loudness and energy,Loudness falling slope,loudness_sma3_meanFallingSlope,B5,0.034304567711151035,0.034304567711151035,9.70067469653987
+Spectral dynamics,Mean spectral flux,spectralFlux_sma3_amean,B5,-0.035871451147307894,0.035871451147307894,9.70067469653987
+Spectral dynamics,Spectral flux variability,spectralFlux_sma3_stddevNorm,B5,0.13619312008486095,0.13619312008486095,9.70067469653987
+Spectral dynamics,Mean MFCC1,mfcc1_sma3_amean,B5,-0.17139407790636,0.17139407790636,9.70067469653987
+Spectral dynamics,MFCC1 variability,mfcc1_sma3_stddevNorm,B5,0.07244317935825467,0.07244317935825467,9.70067469653987
+Spectral dynamics,Mean MFCC2,mfcc2_sma3_amean,B5,0.06408298925613623,0.06408298925613623,9.70067469653987
+Spectral dynamics,Mean MFCC3,mfcc3_sma3_amean,B5,-0.5061782967876869,0.5061782967876869,9.70067469653987
+Spectral dynamics,Mean MFCC4,mfcc4_sma3_amean,B5,-0.5081763057387314,0.5081763057387314,9.70067469653987
+Voice quality,Mean jitter,jitterLocal_sma3nz_amean,B5,-0.05130413139925629,0.05130413139925629,9.70067469653987
+Voice quality,Jitter variability,jitterLocal_sma3nz_stddevNorm,B5,0.19815421927075424,0.19815421927075424,9.70067469653987
+Voice quality,Mean shimmer,shimmerLocaldB_sma3nz_amean,B5,-0.2098137702069924,0.2098137702069924,9.70067469653987
+Voice quality,Shimmer variability,shimmerLocaldB_sma3nz_stddevNorm,B5,0.184229065065858,0.184229065065858,9.70067469653987
+Voice quality,Mean HNR,HNRdBACF_sma3nz_amean,B5,0.7005929612683934,0.7005929612683934,9.70067469653987
+Voice quality,Mean H1–H2,logRelF0-H1-H2_sma3nz_amean,B5,-0.1650998372975002,0.1650998372975002,9.70067469653987
+Voice quality,Mean H1–A3,logRelF0-H1-A3_sma3nz_amean,B5,-0.06542733820186541,0.06542733820186541,9.70067469653987
+Formant-related articulation,Mean F1 frequency,F1frequency_sma3nz_amean,B5,0.7889271294895225,0.7889271294895225,9.70067469653987
+Formant-related articulation,F1 frequency variability,F1frequency_sma3nz_stddevNorm,B5,-0.038533266241575534,0.038533266241575534,9.70067469653987
+Formant-related articulation,Mean F1 bandwidth,F1bandwidth_sma3nz_amean,B5,0.2914826717763869,0.2914826717763869,9.70067469653987
+Formant-related articulation,F1 bandwidth variability,F1bandwidth_sma3nz_stddevNorm,B5,0.393652013974763,0.393652013974763,9.70067469653987
+Formant-related articulation,Mean relative F1 amplitude,F1amplitudeLogRelF0_sma3nz_amean,B5,-0.13353622069543417,0.13353622069543417,9.70067469653987
+Formant-related articulation,Mean F2 frequency,F2frequency_sma3nz_amean,B5,0.6997871346194331,0.6997871346194331,9.70067469653987
+Formant-related articulation,F2 frequency variability,F2frequency_sma3nz_stddevNorm,B5,-0.2203773123618203,0.2203773123618203,9.70067469653987
+Formant-related articulation,Mean F2 bandwidth,F2bandwidth_sma3nz_amean,B5,0.12554145747542192,0.12554145747542192,9.70067469653987
+Formant-related articulation,F2 bandwidth variability,F2bandwidth_sma3nz_stddevNorm,B5,0.3069564563193699,0.3069564563193699,9.70067469653987
+Formant-related articulation,Mean relative F2 amplitude,F2amplitudeLogRelF0_sma3nz_amean,B5,-0.16909201314705471,0.16909201314705471,9.70067469653987
+Formant-related articulation,Mean F3 frequency,F3frequency_sma3nz_amean,B5,0.8603676592245457,0.8603676592245457,9.70067469653987
+Formant-related articulation,F3 frequency variability,F3frequency_sma3nz_stddevNorm,B5,0.22407307047324085,0.22407307047324085,9.70067469653987
+Formant-related articulation,Mean F3 bandwidth,F3bandwidth_sma3nz_amean,B5,-0.21929216684978045,0.21929216684978045,9.70067469653987
+Formant-related articulation,F3 bandwidth variability,F3bandwidth_sma3nz_stddevNorm,B5,0.534399874003307,0.534399874003307,9.70067469653987
+Formant-related articulation,Mean relative F3 amplitude,F3amplitudeLogRelF0_sma3nz_amean,B5,-0.19933195223052985,0.19933195223052985,9.70067469653987
+Formant-related articulation,Relative F3 amplitude variability,F3amplitudeLogRelF0_sma3nz_stddevNorm,B5,0.02353659327165814,0.02353659327165814,9.70067469653987
+Loudness and energy,Mean V alpha ratio,alphaRatioV_sma3nz_amean,B5,-0.057645258947528456,0.057645258947528456,9.70067469653987
+Spectral dynamics,Mean V Hammarberg index,hammarbergIndexV_sma3nz_amean,B5,0.3520402598328454,0.3520402598328454,9.70067469653987
+Spectral dynamics,V Hammarberg index variability,hammarbergIndexV_sma3nz_stddevNorm,B5,0.06056859200177566,0.06056859200177566,9.70067469653987
+Spectral dynamics,Mean slopeV0-500,slopeV0-500_sma3nz_amean,B5,0.4027162709760145,0.4027162709760145,9.70067469653987
+Spectral dynamics,Mean slopeV500-1500,slopeV500-1500_sma3nz_amean,B5,-0.07089921104694762,0.07089921104694762,9.70067469653987
+Spectral dynamics,V spectral flux variability,spectralFluxV_sma3nz_stddevNorm,B5,0.24434743909526663,0.24434743909526663,9.70067469653987
+Loudness and energy,Loudness peak rate,loudnessPeaksPerSec,B5,-0.040372167483094114,0.040372167483094114,9.70067469653987
+Temporal timing,Voiced-segment rate,VoicedSegmentsPerSec,B5,-0.10695497910263195,0.10695497910263195,9.70067469653987
+Temporal timing,Mean voiced-segment duration,MeanVoicedSegmentLengthSec,B5,0.06739609788095027,0.06739609788095027,9.70067469653987
+Loudness and energy,Equivalent sound level,equivalentSoundLevel_dBp,B5,-0.0264491321161898,0.0264491321161898,9.70067469653987
+Temporal timing,Word duration,Duration,B6,0.09016514816076003,0.09016514816076003,7.560726135867022
+Temporal timing,Preceding inter-response interval,Gap_Before,B6,0.46590021917604435,0.46590021917604435,7.560726135867022
+Phonation stability,Mean F0,F0semitoneFrom27.5Hz_sma3nz_amean,B6,-0.2295830088725613,0.2295830088725613,7.560726135867022
+Phonation stability,F0 variability,F0semitoneFrom27.5Hz_sma3nz_stddevNorm,B6,0.6361329153968732,0.6361329153968732,7.560726135867022
+Phonation stability,F0 percentile range,F0semitoneFrom27.5Hz_sma3nz_pctlrange0-2,B6,0.5370721670463241,0.5370721670463241,7.560726135867022
+Loudness and energy,Mean loudness,loudness_sma3_amean,B6,-0.03298336819891848,0.03298336819891848,7.560726135867022
+Loudness and energy,Loudness variability,loudness_sma3_stddevNorm,B6,0.4207909848203191,0.4207909848203191,7.560726135867022
+Loudness and energy,Loudness 20th percentile,loudness_sma3_percentile20.0,B6,-0.22891298345748237,0.22891298345748237,7.560726135867022
+Loudness and energy,Loudness percentile range,loudness_sma3_pctlrange0-2,B6,0.23398842190467023,0.23398842190467023,7.560726135867022
+Loudness and energy,Loudness rising slope,loudness_sma3_meanRisingSlope,B6,0.15812330871540975,0.15812330871540975,7.560726135867022
+Loudness and energy,Loudness falling slope,loudness_sma3_meanFallingSlope,B6,-0.11545027508252721,0.11545027508252721,7.560726135867022
+Spectral dynamics,Mean spectral flux,spectralFlux_sma3_amean,B6,0.21774154195625395,0.21774154195625395,7.560726135867022
+Spectral dynamics,Spectral flux variability,spectralFlux_sma3_stddevNorm,B6,0.03536737702791505,0.03536737702791505,7.560726135867022
+Spectral dynamics,Mean MFCC1,mfcc1_sma3_amean,B6,-0.24986518707951016,0.24986518707951016,7.560726135867022
+Spectral dynamics,MFCC1 variability,mfcc1_sma3_stddevNorm,B6,0.3273541606611917,0.3273541606611917,7.560726135867022
+Spectral dynamics,Mean MFCC2,mfcc2_sma3_amean,B6,0.2329127563675377,0.2329127563675377,7.560726135867022
+Spectral dynamics,Mean MFCC3,mfcc3_sma3_amean,B6,0.02180544929422771,0.02180544929422771,7.560726135867022
+Spectral dynamics,Mean MFCC4,mfcc4_sma3_amean,B6,0.11227098818992629,0.11227098818992629,7.560726135867022
+Voice quality,Mean jitter,jitterLocal_sma3nz_amean,B6,0.7572875212736142,0.7572875212736142,7.560726135867022
+Voice quality,Jitter variability,jitterLocal_sma3nz_stddevNorm,B6,0.19024416203020295,0.19024416203020295,7.560726135867022
+Voice quality,Mean shimmer,shimmerLocaldB_sma3nz_amean,B6,0.799569750065459,0.799569750065459,7.560726135867022
+Voice quality,Shimmer variability,shimmerLocaldB_sma3nz_stddevNorm,B6,-0.3498326304348174,0.3498326304348174,7.560726135867022
+Voice quality,Mean HNR,HNRdBACF_sma3nz_amean,B6,-0.5568554396783767,0.5568554396783767,7.560726135867022
+Voice quality,Mean H1–H2,logRelF0-H1-H2_sma3nz_amean,B6,-0.2016339476789086,0.2016339476789086,7.560726135867022
+Voice quality,Mean H1–A3,logRelF0-H1-A3_sma3nz_amean,B6,-0.031139594689040807,0.031139594689040807,7.560726135867022
+Formant-related articulation,Mean F1 frequency,F1frequency_sma3nz_amean,B6,-0.03191541344603997,0.03191541344603997,7.560726135867022
+Formant-related articulation,F1 frequency variability,F1frequency_sma3nz_stddevNorm,B6,-0.06867751321967194,0.06867751321967194,7.560726135867022
+Formant-related articulation,Mean F1 bandwidth,F1bandwidth_sma3nz_amean,B6,-0.16658603625217305,0.16658603625217305,7.560726135867022
+Formant-related articulation,F1 bandwidth variability,F1bandwidth_sma3nz_stddevNorm,B6,0.07873076430922275,0.07873076430922275,7.560726135867022
+Formant-related articulation,Mean relative F1 amplitude,F1amplitudeLogRelF0_sma3nz_amean,B6,-0.07217333176206804,0.07217333176206804,7.560726135867022
+Formant-related articulation,Mean F2 frequency,F2frequency_sma3nz_amean,B6,0.11808799282888027,0.11808799282888027,7.560726135867022
+Formant-related articulation,F2 frequency variability,F2frequency_sma3nz_stddevNorm,B6,0.11949673590763793,0.11949673590763793,7.560726135867022
+Formant-related articulation,Mean F2 bandwidth,F2bandwidth_sma3nz_amean,B6,0.0529730479396323,0.0529730479396323,7.560726135867022
+Formant-related articulation,F2 bandwidth variability,F2bandwidth_sma3nz_stddevNorm,B6,0.19172747992827713,0.19172747992827713,7.560726135867022
+Formant-related articulation,Mean relative F2 amplitude,F2amplitudeLogRelF0_sma3nz_amean,B6,-0.16189635208173084,0.16189635208173084,7.560726135867022
+Formant-related articulation,Mean F3 frequency,F3frequency_sma3nz_amean,B6,-0.061145417610877474,0.061145417610877474,7.560726135867022
+Formant-related articulation,F3 frequency variability,F3frequency_sma3nz_stddevNorm,B6,0.02286764808381818,0.02286764808381818,7.560726135867022
+Formant-related articulation,Mean F3 bandwidth,F3bandwidth_sma3nz_amean,B6,0.048318327721878856,0.048318327721878856,7.560726135867022
+Formant-related articulation,F3 bandwidth variability,F3bandwidth_sma3nz_stddevNorm,B6,-2.080724769192583e-05,2.080724769192583e-05,7.560726135867022
+Formant-related articulation,Mean relative F3 amplitude,F3amplitudeLogRelF0_sma3nz_amean,B6,-0.038096041586162,0.038096041586162,7.560726135867022
+Formant-related articulation,Relative F3 amplitude variability,F3amplitudeLogRelF0_sma3nz_stddevNorm,B6,-0.30400012931384335,0.30400012931384335,7.560726135867022
+Loudness and energy,Mean V alpha ratio,alphaRatioV_sma3nz_amean,B6,-0.1396015447109996,0.1396015447109996,7.560726135867022
+Spectral dynamics,Mean V Hammarberg index,hammarbergIndexV_sma3nz_amean,B6,-0.07495842875903845,0.07495842875903845,7.560726135867022
+Spectral dynamics,V Hammarberg index variability,hammarbergIndexV_sma3nz_stddevNorm,B6,0.293592872367474,0.293592872367474,7.560726135867022
+Spectral dynamics,Mean slopeV0-500,slopeV0-500_sma3nz_amean,B6,-0.11257432208090994,0.11257432208090994,7.560726135867022
+Spectral dynamics,Mean slopeV500-1500,slopeV500-1500_sma3nz_amean,B6,-0.39469742692710386,0.39469742692710386,7.560726135867022
+Spectral dynamics,V spectral flux variability,spectralFluxV_sma3nz_stddevNorm,B6,-0.17658095829606849,0.17658095829606849,7.560726135867022
+Loudness and energy,Loudness peak rate,loudnessPeaksPerSec,B6,0.02687484648246532,0.02687484648246532,7.560726135867022
+Temporal timing,Voiced-segment rate,VoicedSegmentsPerSec,B6,0.020359627690614283,0.020359627690614283,7.560726135867022
+Temporal timing,Mean voiced-segment duration,MeanVoicedSegmentLengthSec,B6,-0.033615659439596934,0.033615659439596934,7.560726135867022
+Loudness and energy,Equivalent sound level,equivalentSoundLevel_dBp,B6,-0.009098800233865835,0.009098800233865835,7.560726135867022
+Temporal timing,Word duration,Duration,B7,-0.08945849934966822,0.08945849934966822,6.241823962531354
+Temporal timing,Preceding inter-response interval,Gap_Before,B7,-0.08549058314160532,0.08549058314160532,6.241823962531354
+Phonation stability,Mean F0,F0semitoneFrom27.5Hz_sma3nz_amean,B7,-0.35735476954137047,0.35735476954137047,6.241823962531354
+Phonation stability,F0 variability,F0semitoneFrom27.5Hz_sma3nz_stddevNorm,B7,0.05039073723569587,0.05039073723569587,6.241823962531354
+Phonation stability,F0 percentile range,F0semitoneFrom27.5Hz_sma3nz_pctlrange0-2,B7,0.05006056053281244,0.05006056053281244,6.241823962531354
+Loudness and energy,Mean loudness,loudness_sma3_amean,B7,0.0394170853522428,0.0394170853522428,6.241823962531354
+Loudness and energy,Loudness variability,loudness_sma3_stddevNorm,B7,0.05542345901418404,0.05542345901418404,6.241823962531354
+Loudness and energy,Loudness 20th percentile,loudness_sma3_percentile20.0,B7,0.014508005012270347,0.014508005012270347,6.241823962531354
+Loudness and energy,Loudness percentile range,loudness_sma3_pctlrange0-2,B7,0.07687424545764798,0.07687424545764798,6.241823962531354
+Loudness and energy,Loudness rising slope,loudness_sma3_meanRisingSlope,B7,0.04354776044581054,0.04354776044581054,6.241823962531354
+Loudness and energy,Loudness falling slope,loudness_sma3_meanFallingSlope,B7,-0.12296311680720838,0.12296311680720838,6.241823962531354
+Spectral dynamics,Mean spectral flux,spectralFlux_sma3_amean,B7,0.0674711806367897,0.0674711806367897,6.241823962531354
+Spectral dynamics,Spectral flux variability,spectralFlux_sma3_stddevNorm,B7,-0.10682125855345456,0.10682125855345456,6.241823962531354
+Spectral dynamics,Mean MFCC1,mfcc1_sma3_amean,B7,-0.1828949044018441,0.1828949044018441,6.241823962531354
+Spectral dynamics,MFCC1 variability,mfcc1_sma3_stddevNorm,B7,-0.008279697899681523,0.008279697899681523,6.241823962531354
+Spectral dynamics,Mean MFCC2,mfcc2_sma3_amean,B7,0.24701055843768932,0.24701055843768932,6.241823962531354
+Spectral dynamics,Mean MFCC3,mfcc3_sma3_amean,B7,0.6183060726747531,0.6183060726747531,6.241823962531354
+Spectral dynamics,Mean MFCC4,mfcc4_sma3_amean,B7,-0.05656974423600223,0.05656974423600223,6.241823962531354
+Voice quality,Mean jitter,jitterLocal_sma3nz_amean,B7,-0.06751624578327511,0.06751624578327511,6.241823962531354
+Voice quality,Jitter variability,jitterLocal_sma3nz_stddevNorm,B7,-0.1687061741566945,0.1687061741566945,6.241823962531354
+Voice quality,Mean shimmer,shimmerLocaldB_sma3nz_amean,B7,0.06426072651472227,0.06426072651472227,6.241823962531354
+Voice quality,Shimmer variability,shimmerLocaldB_sma3nz_stddevNorm,B7,0.0382210120068368,0.0382210120068368,6.241823962531354
+Voice quality,Mean HNR,HNRdBACF_sma3nz_amean,B7,-0.27556621973598955,0.27556621973598955,6.241823962531354
+Voice quality,Mean H1–H2,logRelF0-H1-H2_sma3nz_amean,B7,0.21169738930391893,0.21169738930391893,6.241823962531354
+Voice quality,Mean H1–A3,logRelF0-H1-A3_sma3nz_amean,B7,-0.0780846273837103,0.0780846273837103,6.241823962531354
+Formant-related articulation,Mean F1 frequency,F1frequency_sma3nz_amean,B7,-0.21039039904144802,0.21039039904144802,6.241823962531354
+Formant-related articulation,F1 frequency variability,F1frequency_sma3nz_stddevNorm,B7,-0.1645420596187534,0.1645420596187534,6.241823962531354
+Formant-related articulation,Mean F1 bandwidth,F1bandwidth_sma3nz_amean,B7,-0.7832406612385857,0.7832406612385857,6.241823962531354
+Formant-related articulation,F1 bandwidth variability,F1bandwidth_sma3nz_stddevNorm,B7,0.06365903097935278,0.06365903097935278,6.241823962531354
+Formant-related articulation,Mean relative F1 amplitude,F1amplitudeLogRelF0_sma3nz_amean,B7,-0.07940804203104795,0.07940804203104795,6.241823962531354
+Formant-related articulation,Mean F2 frequency,F2frequency_sma3nz_amean,B7,-0.009081265735230212,0.009081265735230212,6.241823962531354
+Formant-related articulation,F2 frequency variability,F2frequency_sma3nz_stddevNorm,B7,0.14796830278571135,0.14796830278571135,6.241823962531354
+Formant-related articulation,Mean F2 bandwidth,F2bandwidth_sma3nz_amean,B7,-0.7069103885488379,0.7069103885488379,6.241823962531354
+Formant-related articulation,F2 bandwidth variability,F2bandwidth_sma3nz_stddevNorm,B7,0.08075210612227496,0.08075210612227496,6.241823962531354
+Formant-related articulation,Mean relative F2 amplitude,F2amplitudeLogRelF0_sma3nz_amean,B7,-0.13628857030235098,0.13628857030235098,6.241823962531354
+Formant-related articulation,Mean F3 frequency,F3frequency_sma3nz_amean,B7,0.08456982321442351,0.08456982321442351,6.241823962531354
+Formant-related articulation,F3 frequency variability,F3frequency_sma3nz_stddevNorm,B7,-0.507906306539167,0.507906306539167,6.241823962531354
+Formant-related articulation,Mean F3 bandwidth,F3bandwidth_sma3nz_amean,B7,-0.6423754542390298,0.6423754542390298,6.241823962531354
+Formant-related articulation,F3 bandwidth variability,F3bandwidth_sma3nz_stddevNorm,B7,0.3602321422506916,0.3602321422506916,6.241823962531354
+Formant-related articulation,Mean relative F3 amplitude,F3amplitudeLogRelF0_sma3nz_amean,B7,0.03797755819574916,0.03797755819574916,6.241823962531354
+Formant-related articulation,Relative F3 amplitude variability,F3amplitudeLogRelF0_sma3nz_stddevNorm,B7,-0.050048317787667676,0.050048317787667676,6.241823962531354
+Loudness and energy,Mean V alpha ratio,alphaRatioV_sma3nz_amean,B7,-0.18087319202201743,0.18087319202201743,6.241823962531354
+Spectral dynamics,Mean V Hammarberg index,hammarbergIndexV_sma3nz_amean,B7,-0.23925188926881336,0.23925188926881336,6.241823962531354
+Spectral dynamics,V Hammarberg index variability,hammarbergIndexV_sma3nz_stddevNorm,B7,0.042644893306937916,0.042644893306937916,6.241823962531354
+Spectral dynamics,Mean slopeV0-500,slopeV0-500_sma3nz_amean,B7,-0.35381021256196205,0.35381021256196205,6.241823962531354
+Spectral dynamics,Mean slopeV500-1500,slopeV500-1500_sma3nz_amean,B7,-0.20608619556862692,0.20608619556862692,6.241823962531354
+Spectral dynamics,V spectral flux variability,spectralFluxV_sma3nz_stddevNorm,B7,-0.12828378302127033,0.12828378302127033,6.241823962531354
+Loudness and energy,Loudness peak rate,loudnessPeaksPerSec,B7,-0.017615525043500953,0.017615525043500953,6.241823962531354
+Temporal timing,Voiced-segment rate,VoicedSegmentsPerSec,B7,0.03579387736981693,0.03579387736981693,6.241823962531354
+Temporal timing,Mean voiced-segment duration,MeanVoicedSegmentLengthSec,B7,-0.08224274834126669,0.08224274834126669,6.241823962531354
+Loudness and energy,Equivalent sound level,equivalentSoundLevel_dBp,B7,0.09149252338082747,0.09149252338082747,6.241823962531354

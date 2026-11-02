@@ -1,0 +1,20 @@
+﻿Cluster,Category,Name used in article,openSMILE variable,Keep for PCA,Representative,Reason
+1,Phonation stability,Mean F0,F0semitoneFrom27.5Hz_sma3nz_amean,Yes,Mean F0,Representative selected for direct interpretation; redundant features remain valid measurements but are omitted from PCA weighting.
+1,Phonation stability,F0 20th percentile,F0semitoneFrom27.5Hz_sma3nz_percentile20.0,No,Mean F0,"Highly redundant within the same acoustic category in W, C, and CW; omitted from PCA only."
+1,Phonation stability,F0 50th percentile,F0semitoneFrom27.5Hz_sma3nz_percentile50.0,No,Mean F0,"Highly redundant within the same acoustic category in W, C, and CW; omitted from PCA only."
+1,Phonation stability,F0 80th percentile,F0semitoneFrom27.5Hz_sma3nz_percentile80.0,No,Mean F0,"Highly redundant within the same acoustic category in W, C, and CW; omitted from PCA only."
+2,Loudness and energy,Mean loudness,loudness_sma3_amean,Yes,Mean loudness,Representative selected for direct interpretation; redundant features remain valid measurements but are omitted from PCA weighting.
+2,Loudness and energy,Loudness 50th percentile,loudness_sma3_percentile50.0,No,Mean loudness,"Highly redundant within the same acoustic category in W, C, and CW; omitted from PCA only."
+2,Loudness and energy,Loudness 80th percentile,loudness_sma3_percentile80.0,No,Mean loudness,"Highly redundant within the same acoustic category in W, C, and CW; omitted from PCA only."
+3,Spectral dynamics,Mean V spectral flux,spectralFluxV_sma3nz_amean,No,Mean spectral flux,"Highly redundant within the same acoustic category in W, C, and CW; omitted from PCA only."
+3,Spectral dynamics,Mean spectral flux,spectralFlux_sma3_amean,Yes,Mean spectral flux,Representative selected for direct interpretation; redundant features remain valid measurements but are omitted from PCA weighting.
+4,Spectral dynamics,Mean voiced MFCC1,mfcc1V_sma3nz_amean,No,Mean MFCC1,"Highly redundant within the same acoustic category in W, C, and CW; omitted from PCA only."
+4,Spectral dynamics,Mean MFCC1,mfcc1_sma3_amean,Yes,Mean MFCC1,Representative selected for direct interpretation; redundant features remain valid measurements but are omitted from PCA weighting.
+5,Spectral dynamics,Voiced MFCC1 variability,mfcc1V_sma3nz_stddevNorm,No,MFCC1 variability,"Highly redundant within the same acoustic category in W, C, and CW; omitted from PCA only."
+5,Spectral dynamics,MFCC1 variability,mfcc1_sma3_stddevNorm,Yes,MFCC1 variability,Representative selected for direct interpretation; redundant features remain valid measurements but are omitted from PCA weighting.
+6,Spectral dynamics,Mean voiced MFCC2,mfcc2V_sma3nz_amean,No,Mean MFCC2,"Highly redundant within the same acoustic category in W, C, and CW; omitted from PCA only."
+6,Spectral dynamics,Mean MFCC2,mfcc2_sma3_amean,Yes,Mean MFCC2,Representative selected for direct interpretation; redundant features remain valid measurements but are omitted from PCA weighting.
+7,Spectral dynamics,Mean voiced MFCC3,mfcc3V_sma3nz_amean,No,Mean MFCC3,"Highly redundant within the same acoustic category in W, C, and CW; omitted from PCA only."
+7,Spectral dynamics,Mean MFCC3,mfcc3_sma3_amean,Yes,Mean MFCC3,Representative selected for direct interpretation; redundant features remain valid measurements but are omitted from PCA weighting.
+8,Spectral dynamics,Mean voiced MFCC4,mfcc4V_sma3nz_amean,No,Mean MFCC4,"Highly redundant within the same acoustic category in W, C, and CW; omitted from PCA only."
+8,Spectral dynamics,Mean MFCC4,mfcc4_sma3_amean,Yes,Mean MFCC4,Representative selected for direct interpretation; redundant features remain valid measurements but are omitted from PCA weighting.
