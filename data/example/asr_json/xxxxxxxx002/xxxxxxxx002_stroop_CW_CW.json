@@ -1,0 +1,167 @@
+{
+  "subject_id": "xxxxxxxx002",
+  "subject_folder": "",
+  "session": "session_1",
+  "task": "CW",
+  "audio_path": "",
+  "raw_transcript": "黄红绿蓝，绿蓝黄红，红蓝绿黄。",
+  "normalized_text": "黄红绿蓝 绿蓝黄红 红蓝绿黄",
+  "raw_color_candidates": [
+    "黄",
+    "红",
+    "绿",
+    "蓝",
+    "绿",
+    "蓝",
+    "黄",
+    "红",
+    "红",
+    "蓝",
+    "绿",
+    "黄"
+  ],
+  "cleaned_colors": [
+    "黄",
+    "红",
+    "绿",
+    "蓝",
+    "绿",
+    "蓝",
+    "黄",
+    "红",
+    "红",
+    "蓝",
+    "绿",
+    "黄"
+  ],
+  "aligned_colors_raw": [
+    {
+      "text": "黄",
+      "start_time": 2.96,
+      "end_time": 3.52
+    },
+    {
+      "text": "红",
+      "start_time": 3.68,
+      "end_time": 4.16
+    },
+    {
+      "text": "绿",
+      "start_time": 4.56,
+      "end_time": 5.04
+    },
+    {
+      "text": "蓝",
+      "start_time": 5.04,
+      "end_time": 5.52
+    },
+    {
+      "text": "绿",
+      "start_time": 6.4,
+      "end_time": 6.8
+    },
+    {
+      "text": "蓝",
+      "start_time": 6.8,
+      "end_time": 7.28
+    },
+    {
+      "text": "黄",
+      "start_time": 7.36,
+      "end_time": 7.76
+    },
+    {
+      "text": "红",
+      "start_time": 7.84,
+      "end_time": 8.32
+    },
+    {
+      "text": "红",
+      "start_time": 9.04,
+      "end_time": 9.44
+    },
+    {
+      "text": "蓝",
+      "start_time": 9.68,
+      "end_time": 10.08
+    },
+    {
+      "text": "绿",
+      "start_time": 10.16,
+      "end_time": 10.56
+    },
+    {
+      "text": "黄",
+      "start_time": 10.96,
+      "end_time": 11.36
+    }
+  ],
+  "aligned_colors": [
+    {
+      "text": "黄",
+      "start_time": 3.076,
+      "end_time": 3.519
+    },
+    {
+      "text": "红",
+      "start_time": 3.8493,
+      "end_time": 4.2513
+    },
+    {
+      "text": "绿",
+      "start_time": 4.5946,
+      "end_time": 4.9577
+    },
+    {
+      "text": "蓝",
+      "start_time": 5.1204,
+      "end_time": 5.5434
+    },
+    {
+      "text": "绿",
+      "start_time": 6.4324,
+      "end_time": 6.7257
+    },
+    {
+      "text": "蓝",
+      "start_time": 6.8764,
+      "end_time": 7.3124
+    },
+    {
+      "text": "黄",
+      "start_time": 7.473,
+      "end_time": 7.8093
+    },
+    {
+      "text": "红",
+      "start_time": 8.0317,
+      "end_time": 8.3969
+    },
+    {
+      "text": "红",
+      "start_time": 9.1432,
+      "end_time": 9.5712
+    },
+    {
+      "text": "蓝",
+      "start_time": 9.698,
+      "end_time": 10.0771
+    },
+    {
+      "text": "绿",
+      "start_time": 10.1829,
+      "end_time": 10.557
+    },
+    {
+      "text": "黄",
+      "start_time": 11.0998,
+      "end_time": 11.45
+    }
+  ],
+  "n_raw_color_candidates": 12,
+  "n_cleaned_colors": 12,
+  "expected_tokens": 12,
+  "needs_review": false,
+  "review_reason": "",
+  "error": ""
+}
