@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.849886621315193 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 6.849886621315193 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4471559075893263 
+            text = "" 
+        intervals [2]:
+            xmin = 1.4471559075893263 
+            xmax = 1.694056015000712 
+            text = "红" 
+        intervals [3]:
+            xmin = 1.694056015000712 
+            xmax = 1.8220782929177268 
+            text = "" 
+        intervals [4]:
+            xmin = 1.8220782929177268 
+            xmax = 2.0735506245404345 
+            text = "黄" 
+        intervals [5]:
+            xmin = 2.0735506245404345 
+            xmax = 2.2177024306798745 
+            text = "" 
+        intervals [6]:
+            xmin = 2.2177024306798745 
+            xmax = 2.4417414170346503 
+            text = "蓝" 
+        intervals [7]:
+            xmin = 2.4417414170346503 
+            xmax = 2.527092755256186 
+            text = "" 
+        intervals [8]:
+            xmin = 2.527092755256186 
+            xmax = 2.7877095353015373 
+            text = "绿" 
+        intervals [9]:
+            xmin = 2.7877095353015373 
+            xmax = 2.8917910078505114 
+            text = "" 
+        intervals [10]:
+            xmin = 2.8917910078505114 
+            xmax = 3.170696684741151 
+            text = "绿" 
+        intervals [11]:
+            xmin = 3.170696684741151 
+            xmax = 3.280580232843198 
+            text = "" 
+        intervals [12]:
+            xmin = 3.280580232843198 
+            xmax = 3.5503414613111937 
+            text = "蓝" 
+        intervals [13]:
+            xmin = 3.5503414613111937 
+            xmax = 3.824674913990511 
+            text = "" 
+        intervals [14]:
+            xmin = 3.824674913990511 
+            xmax = 4.094285975428186 
+            text = "黄" 
+        intervals [15]:
+            xmin = 4.094285975428186 
+            xmax = 4.2270306445868435 
+            text = "" 
+        intervals [16]:
+            xmin = 4.2270306445868435 
+            xmax = 4.511705379587733 
+            text = "红" 
+        intervals [17]:
+            xmin = 4.511705379587733 
+            xmax = 5.183822338652061 
+            text = "" 
+        intervals [18]:
+            xmin = 5.183822338652061 
+            xmax = 5.421577997640803 
+            text = "黄" 
+        intervals [19]:
+            xmin = 5.421577997640803 
+            xmax = 5.560345705533677 
+            text = "" 
+        intervals [20]:
+            xmin = 5.560345705533677 
+            xmax = 5.7752402434658086 
+            text = "红" 
+        intervals [21]:
+            xmin = 5.7752402434658086 
+            xmax = 5.871256951903569 
+            text = "" 
+        intervals [22]:
+            xmin = 5.871256951903569 
+            xmax = 6.086151489835701 
+            text = "绿" 
+        intervals [23]:
+            xmin = 6.086151489835701 
+            xmax = 6.195884870907428 
+            text = "" 
+        intervals [24]:
+            xmin = 6.195884870907428 
+            xmax = 6.451929426741458 
+            text = "蓝" 
+        intervals [25]:
+            xmin = 6.451929426741458 
+            xmax = 6.849886621315193 
+            text = "" 
