@@ -1,0 +1,18 @@
+﻿Feature_A,Feature_B,rho_W,rho_C,rho_CW,min_abs_rho,action
+F0semitoneFrom27.5Hz_sma3nz_amean,F0semitoneFrom27.5Hz_sma3nz_percentile20.0,0.98222814628024,0.980391666938951,0.971732056607001,0.971732056607001,Flag only; do not remove from measurement-qualified set
+F0semitoneFrom27.5Hz_sma3nz_amean,F0semitoneFrom27.5Hz_sma3nz_percentile50.0,0.9936362290957524,0.9928539715427386,0.98723017399945,0.98723017399945,Flag only; do not remove from measurement-qualified set
+F0semitoneFrom27.5Hz_sma3nz_amean,F0semitoneFrom27.5Hz_sma3nz_percentile80.0,0.9810528379419896,0.9779093926644614,0.9678342229030402,0.9678342229030402,Flag only; do not remove from measurement-qualified set
+F0semitoneFrom27.5Hz_sma3nz_percentile20.0,F0semitoneFrom27.5Hz_sma3nz_percentile50.0,0.967016408188526,0.9665714631675856,0.938242976499599,0.938242976499599,Flag only; do not remove from measurement-qualified set
+F0semitoneFrom27.5Hz_sma3nz_percentile20.0,HNRdBACF_sma3nz_amean,0.9094532077364692,0.9018497412015244,0.9117759552863888,0.9018497412015244,Flag only; do not remove from measurement-qualified set
+F0semitoneFrom27.5Hz_sma3nz_percentile50.0,F0semitoneFrom27.5Hz_sma3nz_percentile80.0,0.985435017845851,0.9823607648825938,0.9779574428827053,0.9779574428827053,Flag only; do not remove from measurement-qualified set
+loudness_sma3_amean,loudness_sma3_percentile50.0,0.9890234081443195,0.98812583006752,0.9767927055924688,0.9767927055924688,Flag only; do not remove from measurement-qualified set
+loudness_sma3_amean,loudness_sma3_percentile80.0,0.9806943833138888,0.9753483160320512,0.9777114257652956,0.9753483160320512,Flag only; do not remove from measurement-qualified set
+loudness_sma3_percentile50.0,loudness_sma3_percentile80.0,0.961516580208307,0.9522371220610082,0.9307336883924124,0.9307336883924124,Flag only; do not remove from measurement-qualified set
+loudness_sma3_percentile80.0,equivalentSoundLevel_dBp,0.9082740553807592,0.9000987912487096,0.918149336234285,0.9000987912487096,Flag only; do not remove from measurement-qualified set
+spectralFlux_sma3_amean,spectralFluxV_sma3nz_amean,0.9937159924580374,0.9934497942489652,0.9932681644240025,0.9932681644240025,Flag only; do not remove from measurement-qualified set
+spectralFlux_sma3_amean,equivalentSoundLevel_dBp,0.938405386237264,0.9302964314063914,0.9368187680308444,0.9302964314063914,Flag only; do not remove from measurement-qualified set
+mfcc1_sma3_amean,mfcc1V_sma3nz_amean,0.966234150635512,0.9552825448933188,0.9555593141504046,0.9552825448933188,Flag only; do not remove from measurement-qualified set
+mfcc2_sma3_amean,mfcc2V_sma3nz_amean,0.991726713422732,0.993884168221892,0.9889705529042512,0.9889705529042512,Flag only; do not remove from measurement-qualified set
+mfcc3_sma3_amean,mfcc3V_sma3nz_amean,0.9926521606261134,0.9932229972188532,0.9894645091478004,0.9894645091478004,Flag only; do not remove from measurement-qualified set
+mfcc4_sma3_amean,mfcc4V_sma3nz_amean,0.9865670809876816,0.9901276021595686,0.9904399285781552,0.9865670809876816,Flag only; do not remove from measurement-qualified set
+spectralFluxV_sma3nz_amean,equivalentSoundLevel_dBp,0.9261766056941428,0.919328488589995,0.926844503727736,0.919328488589995,Flag only; do not remove from measurement-qualified set

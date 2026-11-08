@@ -1,0 +1,28 @@
+﻿Effect_type,Set,Contrast,N_features,N_significant_q05,N_significant_q001
+single_task_age,Original 49,Dots,49,18,6
+single_task_age,Original 49,Hanzi,49,12,4
+single_task_age,Original 49,STT,49,22,18
+single_task_age,Excluding poor short-word agreement,Dots,39,10,2
+single_task_age,Excluding poor short-word agreement,Hanzi,39,7,2
+single_task_age,Excluding poor short-word agreement,STT,39,13,10
+single_task_age,Excluding short-specific decline,Dots,45,15,4
+single_task_age,Excluding short-specific decline,Hanzi,45,10,3
+single_task_age,Excluding short-specific decline,STT,45,18,14
+task_contrast,Original 49,Dots-Hanzi,49,28,17
+task_contrast,Original 49,STT-Dots,49,38,32
+task_contrast,Original 49,STT-Hanzi,49,40,38
+task_contrast,Excluding poor short-word agreement,Dots-Hanzi,39,19,10
+task_contrast,Excluding poor short-word agreement,STT-Dots,39,28,22
+task_contrast,Excluding poor short-word agreement,STT-Hanzi,39,30,27
+task_contrast,Excluding short-specific decline,Dots-Hanzi,45,24,14
+task_contrast,Excluding short-specific decline,STT-Dots,45,34,28
+task_contrast,Excluding short-specific decline,STT-Hanzi,45,36,33
+age_by_task,Original 49,Dots-Hanzi,49,8,3
+age_by_task,Original 49,STT-Dots,49,13,9
+age_by_task,Original 49,STT-Hanzi,49,20,15
+age_by_task,Excluding poor short-word agreement,Dots-Hanzi,39,7,3
+age_by_task,Excluding poor short-word agreement,STT-Dots,39,9,7
+age_by_task,Excluding poor short-word agreement,STT-Hanzi,39,15,11
+age_by_task,Excluding short-specific decline,Dots-Hanzi,45,7,3
+age_by_task,Excluding short-specific decline,STT-Dots,45,10,8
+age_by_task,Excluding short-specific decline,STT-Hanzi,45,17,12

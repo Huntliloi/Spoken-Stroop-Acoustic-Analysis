@@ -1,0 +1,50 @@
+﻿Feature,N_rows_total,Missing_cells,Missing_rate,Converged,Inference_ok,Error,Optimizer,N_rows_used,N_subjects_used,Raw_feature_SD,Log_likelihood,Random_cov_min_eigenvalue,Random_covariance,Warnings
+Gap_Before,8309,0,0.0,True,True,,lbfgs,8309,232,0.3062284978780188,-6133.27733252629,0.0010916072474632,STT_slope,The MLE may be on the boundary of the parameter space.
+F0semitoneFrom27.5Hz_sma3nz_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,4.898815437769439,-5784.3059862428345,0.0171469438160111,unstructured,
+F0semitoneFrom27.5Hz_sma3nz_stddevNorm,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.058935497006482,-10775.175932880513,0.0032610414809772,unstructured,
+F0semitoneFrom27.5Hz_sma3nz_pctlrange0-2,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.5925330114433041,-10241.467108162216,3.869192925767478e-09,unstructured,
+loudness_sma3_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.2151853098382198,-7278.71284661557,0.0298329608628229,unstructured,
+loudness_sma3_stddevNorm,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.1743019321262289,-9754.544032967206,0.0025357858598997,unstructured,The MLE may be on the boundary of the parameter space.
+loudness_sma3_percentile20.0,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.3145664922229724,-8774.167791679538,0.0479523252697971,unstructured,
+loudness_sma3_pctlrange0-2,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.274795532671188,-8251.016605356934,0.0210328438278704,unstructured,
+loudness_sma3_meanRisingSlope,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,2.7084512812230046,-10724.908034561704,0.0064807944776483,unstructured,
+loudness_sma3_meanFallingSlope,8309,42,0.0050547598989048,True,True,,bfgs,8267,232,5.852920743175607,-11342.052790971897,5.559099866024661e-10,unstructured,
+spectralFlux_sma3_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.2087038096320801,-6655.520349780563,0.048236249186652,unstructured,
+spectralFlux_sma3_stddevNorm,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.1244648435452034,-10534.817661487725,2.8748704362442913e-08,unstructured,
+mfcc1_sma3_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,5.934672990371693,-9175.96021570044,2.8378326476422852e-08,unstructured,The MLE may be on the boundary of the parameter space.
+mfcc2_sma3_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,11.405358864428427,-9187.559830521306,1.602154553242014e-06,unstructured,The MLE may be on the boundary of the parameter space.
+mfcc3_sma3_amean,8309,42,0.0050547598989048,True,False,,lbfgs,8267,232,18.425569038153306,-8309.112816774053,8.255127861451385e-06,unstructured,The MLE may be on the boundary of the parameter space. | The Hessian matrix at the estimated parameter values is not positive definite.
+mfcc4_sma3_amean,8309,42,0.0050547598989048,True,False,,lbfgs,8267,232,16.749393071693575,-9177.946779508406,4.837355926241533e-06,unstructured,The MLE may be on the boundary of the parameter space. | The Hessian matrix at the estimated parameter values is not positive definite.
+jitterLocal_sma3nz_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.0250664350785294,-11299.749757715705,7.331725472302048e-05,unstructured,The MLE may be on the boundary of the parameter space.
+jitterLocal_sma3nz_stddevNorm,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.5227730479060022,-11171.772556788128,0.0010389046530663,unstructured,The MLE may be on the boundary of the parameter space.
+shimmerLocaldB_sma3nz_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.1871715714424883,-11057.312170122568,0.0050726281296725,unstructured,
+shimmerLocaldB_sma3nz_stddevNorm,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.3847647827418596,-10927.344706732469,4.6648011721655835e-07,unstructured,The MLE may be on the boundary of the parameter space.
+HNRdBACF_sma3nz_amean,8309,42,0.0050547598989048,True,True,,bfgs,8267,232,2.998069905989411,-8245.50863674259,0.0050383684088687,unstructured,
+logRelF0-H1-H2_sma3nz_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,7.178885782500184,-10131.1116675125,0.0005082811241697,unstructured,The MLE may be on the boundary of the parameter space.
+logRelF0-H1-A3_sma3nz_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,9.047416144111075,-9310.309374100194,8.139476830767018e-06,unstructured,The MLE may be on the boundary of the parameter space.
+F1frequency_sma3nz_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,136.82016804100712,-9957.872773528208,0.0021259811339647,diagonal,The MLE may be on the boundary of the parameter space.
+F1frequency_sma3nz_stddevNorm,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.1144707392810271,-11012.23792755347,1.89229307657548e-05,unstructured,The MLE may be on the boundary of the parameter space.
+F1bandwidth_sma3nz_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,167.42585467289308,-10287.343145062465,4.613589798390117e-05,diagonal,The MLE may be on the boundary of the parameter space.
+F1bandwidth_sma3nz_stddevNorm,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.0577018416797368,-11501.053645254542,0.0013939598498891,unstructured,The MLE may be on the boundary of the parameter space.
+F1amplitudeLogRelF0_sma3nz_amean,8309,53,0.0063786255867132,True,True,,lbfgs,8256,232,7.064671163104647,-10486.997750399052,0.0036334257839303,unstructured,
+F2frequency_sma3nz_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,209.1465053628954,-10535.966645418768,4.261909965462132e-08,unstructured,The MLE may be on the boundary of the parameter space.
+F2frequency_sma3nz_stddevNorm,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.0774510705142631,-10418.82504656179,0.000290070640352,unstructured,The MLE may be on the boundary of the parameter space.
+F2bandwidth_sma3nz_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,275.31649168453214,-10205.154464079227,0.0024270818622758,STT_slope,The MLE may be on the boundary of the parameter space.
+F2bandwidth_sma3nz_stddevNorm,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.1383407566344407,-10866.204470272947,1.22214518138353e-07,unstructured,The MLE may be on the boundary of the parameter space.
+F2amplitudeLogRelF0_sma3nz_amean,8309,53,0.0063786255867132,True,True,,lbfgs,8256,232,5.472866681355874,-10315.934852851717,0.0002975269443633,unstructured,
+F3frequency_sma3nz_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,258.4125655439132,-10115.535227676126,8.637958911216316e-07,unstructured,The MLE may be on the boundary of the parameter space.
+F3frequency_sma3nz_stddevNorm,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.0410293279977345,-11048.771889797252,5.701245505780742e-07,unstructured,The MLE may be on the boundary of the parameter space.
+F3bandwidth_sma3nz_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,284.08511143469747,-11100.130016915056,6.60123287376739e-06,unstructured,The MLE may be on the boundary of the parameter space.
+F3bandwidth_sma3nz_stddevNorm,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.2382947656474778,-10709.22162294275,1.0356968571497046e-05,unstructured,The MLE may be on the boundary of the parameter space.
+F3amplitudeLogRelF0_sma3nz_amean,8309,53,0.0063786255867132,True,True,,lbfgs,8256,232,3.74722958671338,-10126.790827029516,0.0005136367497678,unstructured,
+F3amplitudeLogRelF0_sma3nz_stddevNorm,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.0828569623580881,-10642.056819958869,0.0005575910279196,unstructured,The MLE may be on the boundary of the parameter space.
+alphaRatioV_sma3nz_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,7.392208368421834,-9493.277809738174,1.4917702273479262e-07,unstructured,The MLE may be on the boundary of the parameter space.
+hammarbergIndexV_sma3nz_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,7.0989445816821055,-9140.75310250638,6.0565791104206715e-09,unstructured,The MLE may be on the boundary of the parameter space.
+hammarbergIndexV_sma3nz_stddevNorm,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.1200060290135916,-10586.020016289236,5.9721070987809685e-05,unstructured,The MLE may be on the boundary of the parameter space.
+slopeV0-500_sma3nz_amean,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.0324054567509669,-7716.098588434164,3.461179701558545e-07,unstructured,The MLE may be on the boundary of the parameter space.
+slopeV500-1500_sma3nz_amean,8309,42,0.0050547598989048,True,False,,lbfgs,8267,232,0.0150913394647832,-10141.05911419198,8.529540721792685e-06,unstructured,The MLE may be on the boundary of the parameter space. | The Hessian matrix at the estimated parameter values is not positive definite.
+spectralFluxV_sma3nz_stddevNorm,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.1979003297342181,-10596.595765765946,7.2257115752285e-07,unstructured,
+mfcc1V_sma3nz_stddevNorm,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.082371362615579,-10555.169515217094,4.014430115838796e-05,unstructured,The MLE may be on the boundary of the parameter space.
+loudnessPeaksPerSec,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.4129273969926421,-11367.095851907376,0.0005852001564521,unstructured,The MLE may be on the boundary of the parameter space.
+VoicedSegmentsPerSec,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.3610316728429413,-10530.111716660678,0.0144145611943711,unstructured,
+MeanVoicedSegmentLengthSec,8309,42,0.0050547598989048,True,True,,lbfgs,8267,232,0.0833844236968253,-9878.461252549794,0.0531317280839278,unstructured,
