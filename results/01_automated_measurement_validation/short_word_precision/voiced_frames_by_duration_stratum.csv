@@ -1,5 +1,0 @@
-﻿Duration_stratum,N_items,median_LLD_frames,median_F0_positive_frames,Q1_F0_positive_frames,fraction_with_lt_10_F0_positive_frames,median_F0_positive_fraction
-<200 ms,198,14.0,14.0,13.0,0.045454545454545456,1.0
-200–300 ms,1617,22.0,22.0,19.0,0.0006184291898577613,1.0
-300–500 ms,3372,33.0,33.0,29.0,0.0,1.0
-≥500 ms,490,50.5,49.0,47.0,0.0,1.0

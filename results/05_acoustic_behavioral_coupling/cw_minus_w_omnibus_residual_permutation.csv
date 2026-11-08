@@ -1,3 +1,0 @@
-﻿Contrast,Behavior,N_complete,N_features,Mean_partial_r2,P_permutation,N_permutations,Note,Q_BH_two_behavior_tests
-STT_minus_Hanzi,Time,232,46,0.048131135183468496,0.0002,4999,Mean squared partial Pearson correlation; Freedman-Lane permutation of behavioral residuals after age/sex/education adjustment,0.0004
-STT_minus_Hanzi,Accuracy,232,46,0.007441797156555771,0.0556,4999,Mean squared partial Pearson correlation; Freedman-Lane permutation of behavioral residuals after age/sex/education adjustment,0.0556
